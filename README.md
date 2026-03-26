@@ -10,6 +10,7 @@
 - Pandas
 - NumPy
 - Scikit-learn
+- Gen-AI
 
 ## 📊 GitHub Stats
 
