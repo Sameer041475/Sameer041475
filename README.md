@@ -39,7 +39,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sameer041475&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
 </p>
 
@@ -54,7 +54,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK" target="blank">
+<a href="https://linkedin.com/in/[YOUR_LINK](https://www.linkedin.com/in/sameer-kampa-8186752ba?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
@@ -63,7 +63,7 @@
 
 ### 👀 Profile Views
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> 
+  <img src="https://komarev.com/ghpvc/?username=Sameer041475&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> 
 </p>
 
 ---
